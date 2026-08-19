@@ -1,0 +1,8 @@
+{
+  "data analyst": ["python", "statistics", "sql", "data_analysis"],
+  "data scientist": ["python", "statistics", "sql", "data_analysis", "machine_learning"],
+  "frontend developer": ["frontend_basics", "react"],
+  "backend developer": ["frontend_basics", "backend_dev", "sql"],
+  "full stack developer": ["frontend_basics", "react", "backend_dev", "sql", "fullstack"],
+  "cloud engineer": ["frontend_basics", "backend_dev", "cloud_deploy"]
+}

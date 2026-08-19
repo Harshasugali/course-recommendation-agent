@@ -1,0 +1,117 @@
+[
+  {
+    "profile": "Ananya",
+    "goal": "data analyst",
+    "path": [
+      {
+        "step": 1,
+        "course_id": "PY101",
+        "course_name": "Python Programming Fundamentals",
+        "level": "Beginner",
+        "reason": "Step 1: Python Programming Fundamentals teaches 'python', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 2,
+        "course_id": "STAT101",
+        "course_name": "Statistics for Data Analysis",
+        "level": "Beginner",
+        "reason": "Step 2: Statistics for Data Analysis teaches 'statistics', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 3,
+        "course_id": "SQL101",
+        "course_name": "SQL & Relational Databases",
+        "level": "Beginner",
+        "reason": "Step 3: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 4,
+        "course_id": "DA201",
+        "course_name": "Data Analysis with Pandas",
+        "level": "Intermediate",
+        "reason": "Step 4: Data Analysis with Pandas teaches 'data_analysis', which is required for the goal of becoming a data analyst. You're ready for it because you already have: python, statistics. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      }
+    ]
+  },
+  {
+    "profile": "Rahul",
+    "goal": "data scientist",
+    "path": [
+      {
+        "step": 1,
+        "course_id": "STAT101",
+        "course_name": "Statistics for Data Analysis",
+        "level": "Beginner",
+        "reason": "Step 1: Statistics for Data Analysis teaches 'statistics', which is required for the goal of becoming a data scientist. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 2,
+        "course_id": "SQL101",
+        "course_name": "SQL & Relational Databases",
+        "level": "Beginner",
+        "reason": "Step 2: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a data scientist. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 3,
+        "course_id": "DA201",
+        "course_name": "Data Analysis with Pandas",
+        "level": "Intermediate",
+        "reason": "Step 3: Data Analysis with Pandas teaches 'data_analysis', which is required for the goal of becoming a data scientist. You're ready for it because you already have: python, statistics. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 4,
+        "course_id": "ML301",
+        "course_name": "Machine Learning Foundations",
+        "level": "Advanced",
+        "reason": "Step 4: Machine Learning Foundations teaches 'machine_learning', which is required for the goal of becoming a data scientist. You're ready for it because you already have: data_analysis, statistics. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      }
+    ]
+  },
+  {
+    "profile": "Priya",
+    "goal": "full stack developer",
+    "path": [
+      {
+        "step": 1,
+        "course_id": "WEB201",
+        "course_name": "React for Frontend Development",
+        "level": "Intermediate",
+        "reason": "Step 1: React for Frontend Development teaches 'react', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: frontend_basics. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 2,
+        "course_id": "BACK201",
+        "course_name": "Backend Development with Node.js",
+        "level": "Intermediate",
+        "reason": "Step 2: Backend Development with Node.js teaches 'backend_dev', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: frontend_basics. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 3,
+        "course_id": "SQL101",
+        "course_name": "SQL & Relational Databases",
+        "level": "Beginner",
+        "reason": "Step 3: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a full stack developer. No prior skill from your profile was needed for this step. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      },
+      {
+        "step": 4,
+        "course_id": "FULL301",
+        "course_name": "Full-Stack Project Development",
+        "level": "Advanced",
+        "reason": "Step 4: Full-Stack Project Development teaches 'fullstack', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: react, backend_dev, sql. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      }
+    ]
+  },
+  {
+    "profile": "Karan",
+    "goal": "cloud engineer",
+    "path": [
+      {
+        "step": 1,
+        "course_id": "CLOUD201",
+        "course_name": "Cloud Deployment Essentials",
+        "level": "Intermediate",
+        "reason": "Step 1: Cloud Deployment Essentials teaches 'cloud_deploy', which is required for the goal of becoming a cloud engineer. You're ready for it because you already have: backend_dev. (LLM call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None})"
+      }
+    ]
+  }
+]

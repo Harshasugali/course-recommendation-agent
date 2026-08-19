@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PY101",
+    "name": "Python Programming Fundamentals",
+    "level": "Beginner",
+    "skills_taught": ["python"],
+    "prerequisites": [],
+    "description": "Variables, control flow, functions, and basic data structures in Python."
+  },
+  {
+    "id": "STAT101",
+    "name": "Statistics for Data Analysis",
+    "level": "Beginner",
+    "skills_taught": ["statistics"],
+    "prerequisites": [],
+    "description": "Descriptive statistics, probability basics, and distributions."
+  },
+  {
+    "id": "SQL101",
+    "name": "SQL & Relational Databases",
+    "level": "Beginner",
+    "skills_taught": ["sql"],
+    "prerequisites": [],
+    "description": "Querying, joins, aggregation, and schema design."
+  },
+  {
+    "id": "DA201",
+    "name": "Data Analysis with Pandas",
+    "level": "Intermediate",
+    "skills_taught": ["data_analysis"],
+    "prerequisites": ["python", "statistics"],
+    "description": "Cleaning, transforming, and analysing tabular data with pandas."
+  },
+  {
+    "id": "ML301",
+    "name": "Machine Learning Foundations",
+    "level": "Advanced",
+    "skills_taught": ["machine_learning"],
+    "prerequisites": ["data_analysis", "statistics"],
+    "description": "Supervised learning, model evaluation, and scikit-learn workflows."
+  },
+  {
+    "id": "WEB101",
+    "name": "HTML, CSS & JavaScript Basics",
+    "level": "Beginner",
+    "skills_taught": ["frontend_basics"],
+    "prerequisites": [],
+    "description": "Building static, styled, interactive web pages."
+  },
+  {
+    "id": "WEB201",
+    "name": "React for Frontend Development",
+    "level": "Intermediate",
+    "skills_taught": ["react"],
+    "prerequisites": ["frontend_basics"],
+    "description": "Component-based UI development with React."
+  },
+  {
+    "id": "BACK201",
+    "name": "Backend Development with Node.js",
+    "level": "Intermediate",
+    "skills_taught": ["backend_dev"],
+    "prerequisites": ["frontend_basics"],
+    "description": "REST APIs, routing, and server-side logic with Node/Express."
+  },
+  {
+    "id": "FULL301",
+    "name": "Full-Stack Project Development",
+    "level": "Advanced",
+    "skills_taught": ["fullstack"],
+    "prerequisites": ["react", "backend_dev", "sql"],
+    "description": "Capstone: build and deploy a complete full-stack application."
+  },
+  {
+    "id": "CLOUD201",
+    "name": "Cloud Deployment Essentials",
+    "level": "Intermediate",
+    "skills_taught": ["cloud_deploy"],
+    "prerequisites": ["backend_dev"],
+    "description": "Deploying and scaling applications on cloud platforms."
+  }
+]

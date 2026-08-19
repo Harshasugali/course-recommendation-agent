@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ananya",
+    "background": "Second-year commerce student, comfortable with Excel",
+    "goal": "data analyst",
+    "known_skills": []
+  },
+  {
+    "name": "Rahul",
+    "background": "Self-taught in basic Python scripting",
+    "goal": "data scientist",
+    "known_skills": ["python"]
+  },
+  {
+    "name": "Priya",
+    "background": "Built a few static websites in college",
+    "goal": "full stack developer",
+    "known_skills": ["frontend_basics"]
+  },
+  {
+    "name": "Karan",
+    "background": "Backend intern with some Node.js exposure",
+    "goal": "cloud engineer",
+    "known_skills": ["frontend_basics", "backend_dev"]
+  }
+]

@@ -1,0 +1,60 @@
+======================================================================
+Student: Ananya  |  Goal: data analyst
+Background: Second-year commerce student, comfortable with Excel
+Known skills: None
+----------------------------------------------------------------------
+[1] Python Programming Fundamentals (Beginner)
+    -> Step 1: Python Programming Fundamentals teaches 'python', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step.
+
+[2] Statistics for Data Analysis (Beginner)
+    -> Step 2: Statistics for Data Analysis teaches 'statistics', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step.
+
+[3] SQL & Relational Databases (Beginner)
+    -> Step 3: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a data analyst. No prior skill from your profile was needed for this step.
+
+[4] Data Analysis with Pandas (Intermediate)
+    -> Step 4: Data Analysis with Pandas teaches 'data_analysis', which is required for the goal of becoming a data analyst. You're ready for it because you already have: python, statistics.
+
+======================================================================
+Student: Rahul  |  Goal: data scientist
+Background: Self-taught in basic Python scripting
+Known skills: ['python']
+----------------------------------------------------------------------
+[1] Statistics for Data Analysis (Beginner)
+    -> Step 1: Statistics for Data Analysis teaches 'statistics', which is required for the goal of becoming a data scientist. No prior skill from your profile was needed for this step.
+
+[2] SQL & Relational Databases (Beginner)
+    -> Step 2: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a data scientist. No prior skill from your profile was needed for this step.
+
+[3] Data Analysis with Pandas (Intermediate)
+    -> Step 3: Data Analysis with Pandas teaches 'data_analysis', which is required for the goal of becoming a data scientist. You're ready for it because you already have: python, statistics.
+
+[4] Machine Learning Foundations (Advanced)
+    -> Step 4: Machine Learning Foundations teaches 'machine_learning', which is required for the goal of becoming a data scientist. You're ready for it because you already have: data_analysis, statistics.
+
+======================================================================
+Student: Priya  |  Goal: full stack developer
+Background: Built a few static websites in college
+Known skills: ['frontend_basics']
+----------------------------------------------------------------------
+[1] React for Frontend Development (Intermediate)
+    -> Step 1: React for Frontend Development teaches 'react', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: frontend_basics.
+
+[2] Backend Development with Node.js (Intermediate)
+    -> Step 2: Backend Development with Node.js teaches 'backend_dev', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: frontend_basics.
+
+[3] SQL & Relational Databases (Beginner)
+    -> Step 3: SQL & Relational Databases teaches 'sql', which is required for the goal of becoming a full stack developer. No prior skill from your profile was needed for this step.
+
+[4] Full-Stack Project Development (Advanced)
+    -> Step 4: Full-Stack Project Development teaches 'fullstack', which is required for the goal of becoming a full stack developer. You're ready for it because you already have: react, backend_dev, sql.
+
+======================================================================
+Student: Karan  |  Goal: cloud engineer
+Background: Backend intern with some Node.js exposure
+Known skills: ['frontend_basics', 'backend_dev']
+----------------------------------------------------------------------
+[1] Cloud Deployment Essentials (Intermediate)
+    -> Step 1: Cloud Deployment Essentials teaches 'cloud_deploy', which is required for the goal of becoming a cloud engineer. You're ready for it because you already have: backend_dev.
+
+Saved full results to output/recommendations.json
